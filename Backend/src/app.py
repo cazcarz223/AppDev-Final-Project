@@ -19,7 +19,7 @@ with app.app_context():
 @app.route("/api/events/", methods=["GET"])
 def get_events():
     events = Event.query.all()
-    serialized_events = [events.serialize() for event in events]
+    serialized_events = [event.serialize() for event in events]
     return json.dumps({"events": serialized_events}), 200
 
 # Create a new event
