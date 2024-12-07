@@ -25,7 +25,11 @@ def get_events():
 # Create a new event
 @app.route("/api/events/", methods=["POST"])
 def add_event():
-    data = json.loads(request.data)
+    try:
+        data = json.loads(request.data)
+    except (ValueError, TypeError): 
+        return json.dumps({"error": "Invalid or empty request"}), 400
+
     if not data:
         return json.dumps({"error": "Empty request"}), 400
     
@@ -74,9 +78,14 @@ def remove_event(event_id):
 # Adds a new user to the app
 @app.route("/api/users/", methods=["POST"])
 def add_user():
-    data = request.get_json() 
+    try:
+        data = json.loads(request.data)
+    except (ValueError, TypeError): 
+        return json.dumps({"error": "Invalid or empty request"}), 400
+
     if not data:
         return json.dumps({"error": "Empty request"}), 400
+
     
     username = data.get("username")
     password = data.get("password")
@@ -110,7 +119,10 @@ def fetch_user_by_id(user_id):
 # Associate a user with an event (attendee or creator)
 @app.route("/api/events/<int:event_id>/add_user/", methods=["POST"])
 def link_user_to_event(event_id):
-    data = request.get_json()
+    try:
+        data = json.loads(request.data)
+    except (ValueError, TypeError): 
+        return json.dumps({"error": "Invalid or empty request"}), 400
     if not data:
         return json.dumps({"error": "Empty request"}), 400
     user_id, user_type = data.get("user_id"), data.get("type")
