@@ -1,0 +1,8 @@
+version: "3"
+services:
+  demo:
+    volumes:
+    - /home/caz39/ems.db:/usr/app/ems.db
+    image: carissazh/introbackendfinal
+    ports:
+      - "80:8000"
