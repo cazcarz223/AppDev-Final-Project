@@ -71,6 +71,7 @@ def remove_event(event_id):
     db.session.commit()
     return json.dumps(event.serialize()), 200
 
+# Adds a new user to the app
 @app.route("/api/users/", methods=["POST"])
 def add_user():
     data = request.get_json() 
