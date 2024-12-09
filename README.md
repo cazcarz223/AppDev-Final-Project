@@ -1,11 +1,24 @@
 # Backend-Final-Project
+**App name**: Eventer
+**App tagline**: Eventer: Where Connections Happen, One Event at a Time.  
+**Important Links:** All implementations are included in this repo. The deployment for the backend is at 34.85.149.0 and the API Specs are at https://docs.google.com/document/d/1ZjasLMu237YTIlTiKBaqpKnpbVa3oFNMi7nMKYAsn9M/edit?usp=sharing 
 
-In your GitHub repository, please include a README with the following:
-App Name
-App Tagline: short one-liner description of your app
-Link(s) to any other public GitHub repo(s) of your app. If you have one repo for iOS / Android and one for Backend, please link to your backend repo in your iOS / Android README, and your iOS / Android repo in your backend README.
-Some screenshots of your app (highlight important features)
-A short description of your app (its purpose and features)
-A list of how your app addresses each of the requirements
-Anything else you want your grader to know
-Note: The link, screenshots, and description will be used for the Hack Challenge website where we will showcase everyone’s final projects
+**Description of App:** 
+
+  
+**Some screenshots of your app (highlight important features)** !??!?!?!??!
+
+_ 
+## A list of how your app addresses each of the requirements
+
+**Backend:**
+- We have two tables in database: Users and Events. They have a many-many relationship between them. 
+- We have a total of 8 routes, 1 is DELETE, 3 are POST, 3 are GETs  
+
+The API specs are also at https://docs.google.com/document/d/1ZjasLMu237YTIlTiKBaqpKnpbVa3oFNMi7nMKYAsn9M/edit?usp=sharing 
+
+
+**Frontend:**
+
+**Anything else you want your grader to know:**
+  We had limited time due to late group merging and also one of the two frontend members dropping out. We received an extension until 12/9 and a drop for the midpoint submission.
