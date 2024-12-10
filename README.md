@@ -6,7 +6,7 @@
 **Description of App:** 
 Eventer is an app where users can discover events that are happening, view details about who created them, see attendee lists, and find information about their location and time. Users can also create their own events by providing a name, location, and date; or join events by adding themselves to the attendee lists
 
-Sample backend code:
+Sample backend code:  
 <img width="485" alt="Screenshot 2024-12-10 at 1 09 52 AM" src="https://github.com/user-attachments/assets/9ca69fda-40a3-4ba2-8057-e0378eab66dd">
 <img width="546" alt="Screenshot 2024-12-10 at 1 11 32 AM" src="https://github.com/user-attachments/assets/365a52a4-a5af-4e88-a919-00dc0b3bc615">
 <img width="633" alt="Screenshot 2024-12-10 at 1 11 51 AM" src="https://github.com/user-attachments/assets/798189c7-6638-4aba-879e-cb71e29bad79">
