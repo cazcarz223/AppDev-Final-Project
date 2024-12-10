@@ -23,7 +23,7 @@ _
 The API specs are also at https://docs.google.com/document/d/1ZjasLMu237YTIlTiKBaqpKnpbVa3oFNMi7nMKYAsn9M/edit?usp=sharing 
 
 **Frontend:**
-Core app functionalities for Eventer completed, wirh MVVM design pattern implemented and 4 fully funcitonal screens. See section below with regards to integratoin. 
+Core app functionalities for Eventer completed, wirh MVVM design pattern implemented and 4 screens (see picture above). See section below with regards to integration. 
 
 **Anything else you want your grader to know:**
-  We had limited time due to late group merging and also one of the two frontend members dropping out (both of which was not known until after Thanksgiving Break). We received an extension and a drop for the midpoint submission. Challenges arose during the integration of the frontend with the backend. Despite our efforts to resolve these issues, including consulting with TAs, the problem could not be resolved within the limited time available,
+  We had limited time due to late group assignment and also one of the two frontend members dropping out (both of which was not known until after Thanksgiving Break, giving us less than a week). We received an extension and a drop for the midpoint submission. Challenges arose during the integration of the frontend with the backend. Despite our efforts to resolve these issues, including consulting with TAs, the problem could not be resolved within the limited time/members available. 
