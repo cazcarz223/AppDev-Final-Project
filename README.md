@@ -7,6 +7,7 @@
 Eventer is an app where users can discover events that are happening, view details about who created them, see attendee lists, and find information about their location and time. Users can also create their own events by providing a name, location, and date; or join events by adding themselves to the attendee lists
 
 Sample backend code:  
+<img width="1126" alt="Screenshot 2024-12-10 at 5 16 10 PM" src="https://github.com/user-attachments/assets/3069fe73-5dc9-488a-a35d-ce02bc874282">
 <img width="485" alt="Screenshot 2024-12-10 at 1 09 52 AM" src="https://github.com/user-attachments/assets/9ca69fda-40a3-4ba2-8057-e0378eab66dd">
 <img width="546" alt="Screenshot 2024-12-10 at 1 11 32 AM" src="https://github.com/user-attachments/assets/365a52a4-a5af-4e88-a919-00dc0b3bc615">
 <img width="633" alt="Screenshot 2024-12-10 at 1 11 51 AM" src="https://github.com/user-attachments/assets/798189c7-6638-4aba-879e-cb71e29bad79">
@@ -22,7 +23,7 @@ _
 The API specs are also at https://docs.google.com/document/d/1ZjasLMu237YTIlTiKBaqpKnpbVa3oFNMi7nMKYAsn9M/edit?usp=sharing 
 
 **Frontend:**
-Core app functionalities for Eventer completed, wirh MVVM design pattern implemented and 3 fully funcitonal screens. See section below with regards to integratoin. 
+Core app functionalities for Eventer completed, wirh MVVM design pattern implemented and 4 fully funcitonal screens. See section below with regards to integratoin. 
 
 **Anything else you want your grader to know:**
   We had limited time due to late group merging and also one of the two frontend members dropping out (both of which was not known until after Thanksgiving Break). We received an extension and a drop for the midpoint submission. Challenges arose during the integration of the frontend with the backend. Despite our efforts to resolve these issues, including consulting with TAs, the problem could not be resolved within the limited time available,
