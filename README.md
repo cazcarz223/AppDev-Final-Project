@@ -1,7 +1,7 @@
 # Backend-Final-Project
 **App name**: Eventer  
 **App tagline**: Eventer: Where Connections Happen, One Event at a Time.   
-**Important Links:** All implementations are included in this repo (backend is in backend/src and frontend is EventApp). The deployment for the backend is at 34.85.149.0 and the API Specs are at https://docs.google.com/document/d/1ZjasLMu237YTIlTiKBaqpKnpbVa3oFNMi7nMKYAsn9M/edit?usp=sharing   
+**Important Links:** All implementations are included in this repo (backend is in backend/src and frontend is EventApp). The deployment for the backend is at 34.85.149.0 (note that there's no basepoint) and the API Specs are at https://docs.google.com/document/d/1ZjasLMu237YTIlTiKBaqpKnpbVa3oFNMi7nMKYAsn9M/edit?usp=sharing   
 
 **Description of App:** 
 Eventer is an app where users can discover events that are happening, view details about who created them, see attendee lists, and find information about their location and time. Users can also create their own events by providing a name, location, and date; or join events by adding themselves to the attendee lists
