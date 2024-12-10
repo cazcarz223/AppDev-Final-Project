@@ -6,7 +6,11 @@
 **Description of App:** 
 Eventer is an app where users can discover events that are happening, view details about who created them, see attendee lists, and find information about their location and time. Users can also create their own events by providing a name, location, and date; or join events by adding themselves to the attendee lists
 
-**Some screenshots of your app (highlight important features)** !??!?!?!??!
+Sample backend code:
+<img width="485" alt="Screenshot 2024-12-10 at 1 09 52 AM" src="https://github.com/user-attachments/assets/9ca69fda-40a3-4ba2-8057-e0378eab66dd">
+<img width="546" alt="Screenshot 2024-12-10 at 1 11 32 AM" src="https://github.com/user-attachments/assets/365a52a4-a5af-4e88-a919-00dc0b3bc615">
+<img width="633" alt="Screenshot 2024-12-10 at 1 11 51 AM" src="https://github.com/user-attachments/assets/798189c7-6638-4aba-879e-cb71e29bad79">
+<img width="411" alt="Screenshot 2024-12-10 at 1 13 59 AM" src="https://github.com/user-attachments/assets/95ee65a6-7b67-476f-ab12-2e4742525ccb">
 
 _ 
 ## How our app addresses each of the requirements
@@ -18,6 +22,7 @@ _
 The API specs are also at https://docs.google.com/document/d/1ZjasLMu237YTIlTiKBaqpKnpbVa3oFNMi7nMKYAsn9M/edit?usp=sharing 
 
 **Frontend:**
+Core app functionalities for Eventer completed, wirh MVVM design pattern implemented and 3 fully funcitonal screens. See section below with regards to integratoin. 
 
 **Anything else you want your grader to know:**
-  We had limited time due to late group merging and also one of the two frontend members dropping out. We received an extension until 12/9 and a drop for the midpoint submission.
+  We had limited time due to late group merging and also one of the two frontend members dropping out (both of which was not known until after Thanksgiving Break). We received an extension and a drop for the midpoint submission. Challenges arose during the integration of the frontend with the backend. Despite our efforts to resolve these issues, including consulting with TAs, the problem could not be resolved within the limited time available,
