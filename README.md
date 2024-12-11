@@ -28,6 +28,5 @@ Core app functionalities for Eventer completed, wirh MVVM design pattern impleme
 **Anything else you want your grader to know:**
   We had limited time due to late group assignment and also one of the two frontend members dropping out (both of which was not known until after Thanksgiving Break, giving us less than a week). We received an extension and a drop for the midpoint submission. Challenges arose during the integration of the frontend with the backend. Despite our efforts to resolve these issues, including consulting with TAs, the problem could not be resolved within the limited time/members available. 
 
-
-  ##Demo Link
+## Demo Link
   https://www.youtube.com/watch?v=54fC9YwWQwA
